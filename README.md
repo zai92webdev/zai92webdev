@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; self-taught web developer,specialized in reacjs, htmls and css. Can also write backend code such as nodejs express, and other stuff related to web development.
+- 🤔 &nbsp; self-taught web developer,specialized in react js, html and css. Can also write backend code such as nodejs express, and other stuff related to web development.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
