@@ -4,7 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; self-taught web developer,specialized in react js, html and css. Can also write backend code such as nodejs express, and other stuff related to web development.
+- Junior web developer working at Phisoftware Sdn Bhd
+- Working tech stack: Vue js, reactjs, javascript, html,typescript ,nodejs, expressjs, Odoo, Quasar, Vite
+- Database : MongoDb, Firebase ,MySql,
+- Css, Bootstrap, tailwind, material ui vue react, Sass
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
