@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Junior web developer working at Phisoftware Sdn Bhd
+- Web developer working at Phisoftware Sdn Bhd
 - Working tech stack: Vue js, reactjs, javascript, html,typescript ,nodejs, expressjs, Odoo, Quasar, Vite
 - Database : MongoDb, Firebase ,MySql,
 - Css, Bootstrap, tailwind, material ui vue react, Sass
